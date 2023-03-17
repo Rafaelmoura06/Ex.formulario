@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.fullcenter{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#Formulario{
+    background-color: blue;
+    width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
